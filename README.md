@@ -21,7 +21,7 @@ Ferramentas de Desenvolvimento: VsCode | Eclipse | Spring Tool Suite | MySQL Wor
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanGaBRs&layout=compact&theme=radical)
 
 ## 🎯 O que estou aprendendo
-Java: Utilizando frameworks como Spring Boot e JavaFX.
+Java: Framework Spring Boot
 
 Bancos de Dados: Melhorando minhas habilidades em modelagem de dados e otimização de consultas SQL.
 
