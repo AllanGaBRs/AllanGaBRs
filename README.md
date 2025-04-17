@@ -12,7 +12,7 @@ Framework: Spring Boot
 
 Banco de Dados: MySQL
 
-Ferramentas de Desenvolvimento: VsCode | Eclipse | Spring Tool Suite | MySQL Workbench | SceneBuilder
+Ferramentas de Desenvolvimento: VsCode | Eclipse | Spring Tool Suite | MySQL Workbench | SceneBuilder | Intellij
 
 ## 📈 Estatísticas do GitHub
 
