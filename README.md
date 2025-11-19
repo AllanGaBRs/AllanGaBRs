@@ -6,13 +6,13 @@ Atualmente, sou estudante de Sistemas de Informação, com foco em desenvolvimen
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Linguagens: Java | PHP
+Linguagens: Java | JavaScript
 
-Framework: Spring Boot
+Framework: Spring Boot | NestJS | ReactJS
 
-Banco de Dados: MySQL
+Banco de Dados: MySQL | PostgreSQL | H2
 
-Ferramentas de Desenvolvimento: VsCode | Eclipse | Spring Tool Suite | MySQL Workbench | SceneBuilder | Intellij
+Ferramentas de Desenvolvimento: VsCode | Eclipse | Intellij | MySQL Workbench | PgAdmin
 
 ## 📈 Estatísticas do GitHub
 
@@ -20,12 +20,12 @@ Ferramentas de Desenvolvimento: VsCode | Eclipse | Spring Tool Suite | MySQL Wor
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanGaBRs&layout=compact&theme=radical)
 
-## 🎯 O que estou aprendendo
-Java: Framework Spring Boot
+## 🎯 O que estou aprimorando constantemente
+Backend: Spring Boot e NestJS
+
+Frontend: ReactJS
 
 Bancos de Dados: Melhorando minhas habilidades em modelagem de dados e otimização de consultas SQL.
-
-Desenvolvimento Back-End: Com foco em arquitetura de software e boas práticas.
 
 ## 📫 Como me encontrar
 
