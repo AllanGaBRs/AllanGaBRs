@@ -1,31 +1,44 @@
-# 👋 Olá, Eu sou Allan Gabriel!
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Allan%20Gabriel&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%" />
+
+</div>
 
 ## 💡 Sobre mim
 
-Atualmente, sou estudante de Sistemas de Informação, com foco em desenvolvimento back-end. Tenho paixão por resolver problemas complexos usando Java e bancos de dados como MySQL. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para criar soluções eficientes.
+Atualmente, sou Desenvolvedor FullStack, com foco em desenvolvimento back-end. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para criar soluções eficientes.
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Linguagens: Java | JavaScript
+### 🛠️ Technologies & Tools
 
-Framework: Spring Boot | NestJS | ReactJS
+#### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-Banco de Dados: MySQL | PostgreSQL | H2
+#### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-Ferramentas de Desenvolvimento: VsCode | Eclipse | Intellij | MySQL Workbench | PgAdmin
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-## 📈 Estatísticas do GitHub
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![H2](https://img.shields.io/badge/H2-000000?style=for-the-badge&logo=h2&logoColor=white)
 
-![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=AllanGaBRs&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanGaBRs&layout=compact&theme=radical)
-
-## 🎯 O que estou aprimorando constantemente
-Backend: Spring Boot e NestJS
-
-Frontend: ReactJS
-
-Bancos de Dados: Melhorando minhas habilidades em modelagem de dados e otimização de consultas SQL.
+#### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PgAdmin](https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 📫 Como me encontrar
 
