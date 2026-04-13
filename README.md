@@ -8,8 +8,6 @@
 
 Atualmente, sou Desenvolvedor FullStack, com foco em desenvolvimento back-end. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para criar soluções eficientes.
 
-### 🛠️ Tecnologias e Ferramentas
-
 ### 🛠️ Technologies & Tools
 
 #### 💻 Languages
