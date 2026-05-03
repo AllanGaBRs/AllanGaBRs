@@ -38,15 +38,3 @@ Sou Desenvolvedor Full-Stack, com foco em desenvolvimento back-end. Estou sempre
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## 🔥 Streak de Commits
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AllanGaBRs&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily" />
-</div>
-
-## 📫 Como me encontrar
-
-LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/allan-gabriel-moreira-da-silva-9090a9271/)
-
-E-mail: allangabrielmoreira010@gmail.com
