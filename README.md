@@ -4,7 +4,7 @@
 
 I'm a Full Stack Software Developer focused on Back-end Development.
 
-Currently working with Java, Spring Boot, Next.js and NestJS, building scalable applications, REST APIs and automation solutions.
+Currently working with Java, Spring Boot, NextJS and NestJS, building scalable applications, REST APIs and automation solutions.
 
 I enjoy learning new technologies, improving my engineering skills and building software that delivers real value.
 
