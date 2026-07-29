@@ -8,8 +8,6 @@ Currently working with Java, Spring Boot, Next.js and NestJS, building scalable 
 
 I enjoy learning new technologies, improving my engineering skills and building software that delivers real value.
 
-Connect with me on LinkedIn: (your profile)
-
 ### 🚀 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
