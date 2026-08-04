@@ -2,7 +2,7 @@
 
 ## About 🤠
 
-I'm a Full Stack Software Developer focused on Back-end Development.
+I'm a Full Stack Software Developer with a strong focus on backend development.
 
 Currently working with Java, Spring Boot, NextJS and NestJS, building scalable applications, REST APIs and automation solutions.
 
